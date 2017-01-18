@@ -6,7 +6,7 @@
 
 
 # 运行效果
-![](http://i.imgur.com/bMRLCtk.gif)
+![](https://github.com/Yalantis/uCrop/raw/master/preview.gif)
 
 * 爱生活,爱学习,更爱做代码的搬运工,分类查找更方便请下载黑马助手app
 
