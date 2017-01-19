@@ -2,7 +2,7 @@
 ---
 开源地址：[https://github.com/open-android/uCrop](https://github.com/open-android/uCrop "开源项目地址")
 
-一款机具观赏性的图片裁剪库
+一款极具观赏性的图片裁剪库
 
 
 # 运行效果
