@@ -2,6 +2,8 @@
 ---
 开源地址：[https://github.com/open-android/uCrop](https://github.com/open-android/uCrop "开源项目地址")
 
+ PS：如果觉得文章太长，你也可观看该课程的[视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3acfe4df022b&vId=8a2c9bed5a3a4c7e015a3a66a8f40003&videoId=D3C4DA48E22706169C33DC5901307461)，亲，里面还有高清，无码的福利喔
+
 一款极具观赏性的图片裁剪库
 
 
